@@ -1,5 +1,7 @@
 # 🧠 Billy 2.0
 
+RUN "python main.py"!!!!
+
 > A personal learning AI assistant built from scratch with memory, knowledge storage, language understanding, and adaptive learning.
 
 Billy 2.0 is an experimental AI companion designed to learn from conversations, remember important information, and gradually become more personalized over time.
